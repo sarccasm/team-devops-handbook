@@ -7,7 +7,8 @@ Keeping both values:
 indent_size = 2
 indent_size = 4
 
-The configuration becomes inconsistent and different editors may format files differently.
+The configuration becomes inconsistent and may cause different formatting.
+
 
 ## Correct solution
 
@@ -15,4 +16,4 @@ Use one value:
 
 indent_size = 4
 
-This keeps a single formatting rule for the whole project.
+This keeps one formatting standard for the whole project.

@@ -14,3 +14,4 @@ The goal is to practice:
 - code review
 - merge conflict resolution
 - clean Git history
+- Collaboration workflow tested with second contributor
